@@ -1,0 +1,1418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabib\\The Delivery Sandman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|c:\\users\\gabib\\the delivery sandman\\assets\\scripts\\enemies\\watchman\\watchmanstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\watchman\\watchmanstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|c:\\users\\gabib\\the delivery sandman\\assets\\scripts\\statsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thiefstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thiefstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\graspinghand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\graspinghand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playerinteractionbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteractionbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\missionsystemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\missionsystemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\missionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\missionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\interactionbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playergraspinghand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playergraspinghand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\deliverypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\watchman\\watchmanai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\watchman\\watchmanai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\damageablestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageablestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\groundchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\ragdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ragdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\grabable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grabable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\weapons\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thieffsmstateonfoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thieffsmstateonfoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thiefai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thiefai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\enemyarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thiefinteractionbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thiefinteractionbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\watchman\\watchmanstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\watchman\\watchmanstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thiefactionsinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thiefactionsinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thiefstealingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thiefstealingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\actionsinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actionsinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playeractionsinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeractionsinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\interactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playerfsmstateonfoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerfsmstateonfoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\weapons\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\interactionhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interactionhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\weapons\\ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\mapprefabutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\mapprefabutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thieffsmstatefall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thieffsmstatefall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\openable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\openable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\weapons\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playerfsmstateinvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerfsmstateinvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playerfsmstatefall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerfsmstatefall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\realistic car controller pro\\scripts\\camera\\rccp_fixedcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\realistic car controller pro\\scripts\\camera\\rccp_fixedcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\realistic car controller pro\\scripts\\vehicle\\rccp_exterior_cameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\realistic car controller pro\\scripts\\vehicle\\rccp_exterior_cameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\realistic car controller pro\\scripts\\vehicle\\rccp_hoodcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\realistic car controller pro\\scripts\\vehicle\\rccp_hoodcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\packagespotting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\packagespotting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\minimapagentregistrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\minimapagentregistrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\PlayerUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playerstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\staticnpcagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\staticnpcagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thieffsmstatejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thieffsmstatejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\enemies\\thief\\thieffsmstatemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\thief\\thieffsmstatemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\camerasockets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerasockets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\deadrbfollowingthisgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deadrbfollowingthisgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\movingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\player\\playerfsmstatejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerfsmstatejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\fsm\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\fsm\\fsmstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\fsmstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\missionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\missionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\iminimapagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\iminimapagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\camerasocketsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerasocketsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\exp\\impulseexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exp\\impulseexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\vector3ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\vector3ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\mapagentgraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\mapagentgraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\minimapwindowdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\minimapwindowdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\uilinerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\uilinerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|C:\\Users\\gabib\\The Delivery Sandman\\assets\\scripts\\minimap\\maputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA608D2B-3216-B091-E909-E9D98278D3A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\maputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\OpenableSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\OpenableSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabib\\The Delivery Sandman\\Assets\\FallingStateMachineBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FallingStateMachineBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\WheelsUpdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WheelsUpdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchmanStatsUI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Watchman\\WatchmanStatsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Watchman\\WatchmanStatsUI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Watchman\\WatchmanStatsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Watchman\\WatchmanStatsUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T11:38:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnemyArea.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\EnemyArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyArea.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\EnemyArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T11:17:17.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T11:11:02.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerGraspingHand.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerGraspingHand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerGraspingHand.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerGraspingHand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerGraspingHand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:48:29.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThiefActionsInputSystem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefActionsInputSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefActionsInputSystem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefActionsInputSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefActionsInputSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:19:52.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ThiefInteractionBrain.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefInteractionBrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefInteractionBrain.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefInteractionBrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefInteractionBrain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:05:23.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerUser.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerUser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUser.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerUser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUser.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:26:14.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\User.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\User.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\User.cs",
+              "RelativeToolTip": "Assets\\Scripts\\User.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:29:35.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InteractionBrain.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InteractionBrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionBrain.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InteractionBrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionBrain.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:23:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInteractionBrain.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerInteractionBrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteractionBrain.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerInteractionBrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteractionBrain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T11:58:35.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayerActionsInputSystem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerActionsInputSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerActionsInputSystem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerActionsInputSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerActionsInputSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T11:35:37.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ActionsInputSystem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\ActionsInputSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ActionsInputSystem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\ActionsInputSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ActionsInputSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T11:29:43.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InteractionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\InteractionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\InteractionSystem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\InteractionSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\InteractionSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:48:32.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InteractionHand.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\InteractionHand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\InteractionHand.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\InteractionHand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\InteractionHand.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T11:59:53.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Gun.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Gun.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:20:28.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraspingHand.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\GraspingHand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GraspingHand.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\GraspingHand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GraspingHand.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T14:38:03.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:02:15.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\IUserContext.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IUserContext.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\IUserContext.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IUserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:49:02.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUsable.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\IUsable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IUsable.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\IUsable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IUsable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:25:56.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Bullet.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Bullet.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:23:19.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Ammo.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Ammo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Ammo.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Ammo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Ammo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:38:54.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MeleeWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\MeleeWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\MeleeWeapon.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\MeleeWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\MeleeWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:16:22.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Weapons\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:06:19.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Grabable.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Grabable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grabable.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Grabable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grabable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:43:37.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WatchmanStats.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Watchman\\WatchmanStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Watchman\\WatchmanStats.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Watchman\\WatchmanStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Watchman\\WatchmanStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:31:44.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WatchmanAI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Watchman\\WatchmanAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Watchman\\WatchmanAI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Watchman\\WatchmanAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Watchman\\WatchmanAI.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwEwAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:28:32.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroundChecker.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\GroundChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundChecker.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\GroundChecker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:22:50.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RCCP_FixedCamera.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Realistic Car Controller Pro\\Scripts\\Camera\\RCCP_FixedCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Realistic Car Controller Pro\\Scripts\\Camera\\RCCP_FixedCamera.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Realistic Car Controller Pro\\Scripts\\Camera\\RCCP_FixedCamera.cs",
+              "RelativeToolTip": "Assets\\Realistic Car Controller Pro\\Scripts\\Camera\\RCCP_FixedCamera.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:36:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:10:55.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RCCP_Exterior_Cameras.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_Exterior_Cameras.cs",
+              "RelativeDocumentMoniker": "Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_Exterior_Cameras.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_Exterior_Cameras.cs",
+              "RelativeToolTip": "Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_Exterior_Cameras.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:30:15.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RCCP_HoodCamera.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_HoodCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_HoodCamera.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_HoodCamera.cs",
+              "RelativeToolTip": "Assets\\Realistic Car Controller Pro\\Scripts\\Vehicle\\RCCP_HoodCamera.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:22:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:13:20.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InventoryItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:23:59.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySlot.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySlot.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:04:48.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventorySystem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InventorySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\InventorySystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:34:59.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarController.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAmwDUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:44:22.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PlayerUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:02:50.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionSystemUI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\MissionSystemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MissionSystemUI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\MissionSystemUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MissionSystemUI.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:22:42.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PlayerUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\PlayerUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerUIManager.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\PlayerUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerUIManager.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:46:22.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThiefStatsUI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefStatsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefStatsUI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefStatsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefStatsUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:12:27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PlayerStatsUI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerStatsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStatsUI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerStatsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStatsUI.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:00:12.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatsUI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\StatsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StatsUI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\StatsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StatsUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:27:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PlayerFSMStateFall.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateFall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerFSMStateFall.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateFall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerFSMStateFall.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:16:39.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\MissionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MissionSystem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\MissionSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MissionSystem.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:32:41.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CameraController.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CameraController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA9wDsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:25:04.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DamageableStats.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\DamageableStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageableStats.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\DamageableStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageableStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:31:03.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IDamageable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:58:31.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ThiefStealingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefStealingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefStealingSystem.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefStealingSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefStealingSystem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:13:49.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThiefFSMStateOnFoot.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateOnFoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateOnFoot.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateOnFoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateOnFoot.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:34:47.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ThiefFSMStateMovement.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateMovement.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:33:14.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ThiefFSMStateJump.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateJump.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateJump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:14:48.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ThiefFSMStateFall.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateFall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateFall.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateFall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefFSMStateFall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:11:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThiefAI.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Thief\\ThiefAI.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Enemies\\Thief\\ThiefAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Thief\\ThiefAI.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:11:21.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PlayerFSMStateInVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateInVehicle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerFSMStateInVehicle.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateInVehicle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerFSMStateInVehicle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:05:46.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PlayerFSMStateJump.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerFSMStateJump.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerFSMStateJump.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T11:27:12.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayerFSMStateOnFoot.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateOnFoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerFSMStateOnFoot.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerFSMStateOnFoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerFSMStateOnFoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:53:32.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FSMState.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\FSM\\FSMState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\FSMState.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\FSM\\FSMState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSM\\FSMState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:26:59.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FSM.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\FSM\\FSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\FSM.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\FSM\\FSM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSM\\FSM.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:25:12.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:23:54.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwD4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:50:57.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Driver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Driver.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Driver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Driver.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwD8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:54:39.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ImpulseExp.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Exp\\ImpulseExp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exp\\ImpulseExp.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Exp\\ImpulseExp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exp\\ImpulseExp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:11:36.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MovingObject.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\MovingObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingObject.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\MovingObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:11:59.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ragdoll.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Ragdoll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ragdoll.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Ragdoll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ragdoll.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:25:47.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MissionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\MissionValidator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissionValidator.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\MissionValidator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissionValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:48:37.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "MapAgentGraphics.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MapAgentGraphics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\MapAgentGraphics.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MapAgentGraphics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\MapAgentGraphics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:19:24.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IMinimapAgent.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\IMinimapAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\IMinimapAgent.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\IMinimapAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\IMinimapAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:13:51.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "FallingStateMachineBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\FallingStateMachineBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\FallingStateMachineBehaviour.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\FallingStateMachineBehaviour.cs",
+              "RelativeToolTip": "Assets\\FallingStateMachineBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:37:04.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "MinimapWindowDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MinimapWindowDataModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\MinimapWindowDataModel.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MinimapWindowDataModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\MinimapWindowDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:13:26.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "MapUtils.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MapUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\MapUtils.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MapUtils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\MapUtils.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowD8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:52:29.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "StaticNPCAgent.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\StaticNPCAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\StaticNPCAgent.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\StaticNPCAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\StaticNPCAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:10:18.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MinimapAgentRegistrator.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MinimapAgentRegistrator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\MinimapAgentRegistrator.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MinimapAgentRegistrator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\MinimapAgentRegistrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:08:06.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PackageSpotting.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\PackageSpotting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PackageSpotting.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\PackageSpotting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PackageSpotting.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwFQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:15:04.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Minimap.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\Minimap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\Minimap.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\Minimap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\Minimap.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAGoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:33:01.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Vector3Ex.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\Vector3Ex.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\Vector3Ex.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\Vector3Ex.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\Vector3Ex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:08:26.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UILineRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\UILineRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\UILineRenderer.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\UILineRenderer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\UILineRenderer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:42:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MapPrefabUtils.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MapPrefabUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\MapPrefabUtils.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Minimap\\MapPrefabUtils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\MapPrefabUtils.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAiwGIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:51:50.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Mission.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Mission.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:58:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Openable.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Openable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Openable.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Openable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Openable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:41:49.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeadRbFollowingThisGO.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\DeadRbFollowingThisGO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeadRbFollowingThisGO.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\DeadRbFollowingThisGO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeadRbFollowingThisGO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:14:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeliveryPackage.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\DeliveryPackage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryPackage.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\DeliveryPackage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryPackage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:23:18.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CameraSockets.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\CameraSockets.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSockets.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\CameraSockets.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraSockets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:58:56.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\VehicleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VehicleController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:42:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\Vehicle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Vehicle.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:44:37.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "OpenableSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\OpenableSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenableSwitcher.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\OpenableSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenableSwitcher.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:15:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "WheelsUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\WheelsUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WheelsUpdater.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\WheelsUpdater.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WheelsUpdater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:30:30.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CameraSocketSettings.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\CameraSocketSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSocketSettings.cs",
+              "ToolTip": "C:\\Users\\gabib\\The Delivery Sandman\\Assets\\Scripts\\CameraSocketSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraSocketSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:39:18.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
